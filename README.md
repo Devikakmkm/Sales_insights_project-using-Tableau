@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
   
 5. First create each element in different sheets then combine all the sheets to build the complete dashboard.
 
+### final dashboard: <img width="593" height="335" alt="image" src="https://github.com/user-attachments/assets/fdb526ee-0325-4aeb-8b4c-957b1904e04f" />
+
 
 ### Data Analysis Using SQL
 
